@@ -1,6 +1,3 @@
-# JobSniffer-App
-
-# JobSniffer-App
 
 # JOB SNIFFER
 
