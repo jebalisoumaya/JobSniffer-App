@@ -33,6 +33,9 @@ Le tableau de bord fournit diverses informations sur le marché de l'emploi, not
 *   Salaire moyen et salaire médian pour différents titres d'emploi
 *   Tendances et statistiques du marché de l'emploi
 
+  ![image](https://github.com/user-attachments/assets/ac015ff6-29ec-413a-8dee-e59d1c5b557f)
+
+
 ![alt text](image-1.png)
 
 ![alt text](image-2.png)
