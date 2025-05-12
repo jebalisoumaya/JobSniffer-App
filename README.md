@@ -33,24 +33,26 @@ Le tableau de bord fournit diverses informations sur le marché de l'emploi, not
 *   Salaire moyen et salaire médian pour différents titres d'emploi
 *   Tendances et statistiques du marché de l'emploi
 
-  ![image](https://github.com/user-attachments/assets/ac015ff6-29ec-413a-8dee-e59d1c5b557f)
+![image](https://github.com/user-attachments/assets/98fe1d10-9e4d-4699-b2d4-00c592e93d5c)
 
+![image](https://github.com/user-attachments/assets/215fb930-2290-4e3b-8aba-56a307c6cf49)
 
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/14583daa-7d02-480e-b20e-b8598884c088)
 
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/92e22920-88cb-4487-9ef3-825582704dc5)
 
-![alt text](image-3.png)
+![image](https://github.com/user-attachments/assets/09e6d88f-bf8a-4756-9a24-298048414c5e)
 
-![alt text](image-4.png)
+![image](https://github.com/user-attachments/assets/51bfa8e1-2e09-4c0f-aebd-20bdcb96e30d)
 
-![alt text](image-5.png)
+![image](https://github.com/user-attachments/assets/b0247be7-9805-4537-ae30-197016f4fe16)
 
-![alt text](image-6.png)
+![image](https://github.com/user-attachments/assets/e3b5d681-c00d-495e-b8c4-619f20a0da11)
 
-![alt text](image-7.png)
+![image](https://github.com/user-attachments/assets/3e107c9c-26cb-4207-b72e-fa7507476271)
 
-![alt text](image-8.png)
+![image](https://github.com/user-attachments/assets/21d7ac6b-d556-4c97-8fbe-e908b7c7ca6b)
+
 
 
 
@@ -63,7 +65,7 @@ Le tableau de bord fournit diverses informations sur le marché de l'emploi, not
 
 ## Installation
 
-1.  Clonez le dépôt : `git clone https://github.com/votre-nom-utilisateur/job-sniffer.git`
+1.  Clonez le dépôt : `git clone (https://github.com/jebalisoumaya/JobSniffer-App.git)`
 
 cd jobsniffer 
 
