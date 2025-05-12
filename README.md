@@ -55,9 +55,6 @@ Le tableau de bord fournit diverses informations sur le marché de l'emploi, not
 ![image](https://github.com/user-attachments/assets/3e107c9c-26cb-4207-b72e-fa7507476271)
 
 
-
-
-
 ## Exigences techniques
 
 *   Python 3.x
@@ -81,3 +78,6 @@ Indeed : (pas fini) : Chaimae
 Front : Soumaya & Chaimae
 Analyse : Équipe 
 --> Un push car plusieurs problèmes rencontrées avec Github & nos ordinateurs 
+
+## Problèmes rencontrés 
+Indeed : Nous avons été confrontés à un CAPTCHA qui se rechargeait en boucle, malgré l’automatisation du clic sur le bouton "Je ne suis pas un robot". Ce comportement résulte de la détection par le site de signaux caractéristiques d’une automatisation, tels que des entêtes HTTP générés automatiquement et l’absence d’un contexte de navigation authentique. Lors du lancement du driver Selenium, le site identifie que le navigateur est piloté par un script, notamment à travers des propriétés comme navigator.webdriver ou une empreinte numérique non conforme à un usage humain. Par ailleurs, la fréquence élevée de nos requêtes a accentué cette détection, un trafic intensif étant typiquement associé à une activité automatisée. L’ensemble de ces facteurs déclenche une redirection systématique vers le CAPTCHA, bloquant l’accès sans mise en place d’une stratégie de contournement plus sophistiquée.
