@@ -74,4 +74,10 @@ cd jobsniffer
 2.  Installez les dépendances : `pip install -r requirements.txt`
 3.  Exécutez l'application : `streamlit run main.py`
 
-
+## Partage des tâches 
+HelloWork : Soumaya et Souhir 
+Welcome to the jungle : Chaimae et Hoda
+Indeed : (pas fini) : Chaimae 
+Front : Soumaya & Chaimae
+Analyse : Équipe 
+--> Un push car plusieurs problèmes rencontrées avec Github & nos ordinateurs 
